@@ -1,7 +1,7 @@
 # ProgrammingAssignment3
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-Repository by __Marcos Garcia Garza__ for the Getting and Cleaning Data programming task in the Data Science course by coursera. 
+Repository by __magg89__ for the Getting and Cleaning Data programming task in the Data Science course by coursera. 
 
 __Dataset downloaded from__
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
