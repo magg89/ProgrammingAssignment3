@@ -1,0 +1,14 @@
+File run_analysis.R creates tidy dataset requested by Coursera Programming Assignment for Module 3 in the Data Science Specialization, following the next steps:
+
+1. Dowload dataset
+Dataset downloaded and extracted as folder named UCI HAR Dataset
+
+2. Assign each data to variables 
+features <- features.txt contains 561 observations, 2 variables 
+activities <- activity_labels.txt contains 6 observations, 2 variables
+subject_test <- test/subject_test.txt contains 2,947 observations, 1 variable
+X_test <- test/X_test.txt contains 2,947 observations 561 variables 
+Y_test <- test/y_test.txt contains 2,947 observations, 1 variable
+subject_train <- test/subject_train.txt contains 7,352 observations, 1 variable
+X_train <- test/X_train.txt contains 7,352 observations, 561 variables 
+Y_train <- test/y_train.txt contains 7,352 observations, 1 variable
