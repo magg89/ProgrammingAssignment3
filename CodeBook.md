@@ -1,4 +1,4 @@
-File `<run_analysis.R>` creates tidy dataset requested by Coursera Programming Assignment for Module 3 in the Data Science Specialization, following the next steps:
+File `<run_analysis.R>` creates tidy dataset requested by Coursera Programming Assignment for Module 3 in the Data Science Specialization, following the next steps: :nerd_face:
 
 1. Dowload dataset
 Dataset downloaded and extracted as folder named UCI HAR Dataset
