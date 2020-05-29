@@ -4,14 +4,14 @@ File `<run_analysis.R>` creates tidy dataset requested by Coursera Programming A
 Dataset downloaded and extracted as folder named UCI HAR Dataset
 
 2. Assign each data to variables 
-`<x_train>` <- `<train/X_train.txt>` contains 7,352 observations, 561 variables
-`<Y_train>` <- `<train/y_train.txt>` contains 7,352 observations, 1 variable
-`<subject_train>` <- `<train/subject_train.txt>` contains 7,352 observations, 1 variable
-`<x_test>` <- `<test/X_test.txt>` contains 2,947 observations 561 variables 
-`<y_test>` <- `<test/y_test.txt>` contains 2,947 observations, 1 variable
-`<subject_test>` <- `<test/subject_test.txt>` contains 2,947 observations, 1 variable
-`<features>` <- `<features.txt>` contains 561 observations, 2 variables 
-`<activity_lables>` <- `<activity_labels.txt>` contains 6 observations, 2 variables
+`<x_train>` <- `<train/X_train.txt>` contains 7,352 observations, 561 variables  
+`<Y_train>` <- `<train/y_train.txt>` contains 7,352 observations, 1 variable  
+`<subject_train>` <- `<train/subject_train.txt>` contains 7,352 observations, 1 variable  
+`<x_test>` <- `<test/X_test.txt>` contains 2,947 observations 561 variables  
+`<y_test>` <- `<test/y_test.txt>` contains 2,947 observations, 1 variable  
+`<subject_test>` <- `<test/subject_test.txt>` contains 2,947 observations, 1 variable  
+`<features>` <- `<features.txt>` contains 561 observations, 2 variables  
+`<activity_lables>` <- `<activity_labels.txt>` contains 6 observations, 2 variables  
 
 3. Merge the training and the test sets to create one data set 
 `<mrg_train>` 7,352 observations & 563 variables created by merging `<y_train>`, `<subject_train>` and `<x_train>` using cbind() function 
